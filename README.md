@@ -9,15 +9,9 @@
     
 </p>
 <p align="center">
-  <a href="https://layer5.io/learn/academy">
-    <img src="https://img.shields.io/badge/Layer5-Academy-00B39F?style=for-the-badge" alt="Layer5 Academy">
-  </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge" alt="Apache 2.0 License">
-  </a>
-  <a href="https://gohugo.io/">
-    <img src="https://img.shields.io/badge/Hugo-Framework-FF4088?logo=hugo&logoColor=white&style=for-the-badge" alt="Hugo">
-  </a>
+  <a href="https://layer5.io/learn/academy"><img src="https://img.shields.io/badge/Layer5-Academy-00B39F?style=for-the-badge" alt="Layer5 Academy"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/layer5io/exoscale-academy?style=for-the-badge" alt="Apache 2.0 License"></a>
+  <a href="https://gohugo.io/"><img src="https://img.shields.io/badge/Hugo-Framework-FF4088?logo=hugo&logoColor=white&style=for-the-badge" alt="Hugo"></a>
 </p>
 
 ## Design Resources
@@ -288,6 +282,44 @@ make theme-update
 - Refer to [CONTRIBUTING.md](./CONTRIBUTING.md) for branching, committing, and PR workflow.
 - Review [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) and [SECURITY.md](./SECURITY.md) prior to contributing.
 
+## Community & Contributions
+
+We warmly welcome all contributors! As you get started, please review this project's [contributing guidelines](./CONTRIBUTING.md).
+
+Contributors are expected to follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
+
+<p>
+<a href="https://slack.layer5.io">
+
+<picture align="right">
+  <source media="(prefers-color-scheme: dark)" srcset=".github/readme/images/slack-dark-128.png">
+  <source media="(prefers-color-scheme: light)" srcset=".github/readme/images/slack-128.png">
+  <img src=".github/readme/images/slack-128.png"
+       width="120"
+       align="right"
+       alt="Join Layer5 Slack">
+</picture>
+
+</a>
+
+<a href="https://layer5.io/community">
+  <img src=".github/readme/images/community.svg"
+       width="140"
+       align="left"
+       style="margin-right:10px;"
+       alt="Layer5 Community">
+</a>
+
+✔️ <em><strong>Explore</strong></em> the <a href="https://docs.layer5.io/cloud/academy">Academy Documentation</a>.<br />
+✔️ <em><strong>Contribute</strong></em> using the <a href="./CONTRIBUTING.md">Contributor Guide</a>.<br />
+✔️ <em><strong>Join</strong></em> the <a href="https://slack.layer5.io">Layer5 Slack Community</a>.<br />
+✔️ <em><strong>Discuss</strong></em> in the <a href="https://discuss.layer5.io">Community Forum</a>.<br />
+✔️ <em><strong>Review</strong></em> the <a href="./CODE_OF_CONDUCT.md">Code of Conduct</a> and <a href="./SECURITY.md">Security Policy</a>.<br />
+
+</p>
+
+<br clear="both" />
+
 ## Site Framework
 
 - **Stack:** Built with [Golang](https://golang.org/) and [Hugo](https://gohugo.io/), fully integrated with [Layer5 Cloud](https://cloud.layer5.io/academy/overview).
@@ -295,7 +327,7 @@ make theme-update
 
 ## License
 
-Distributed under the [Apache 2.0 License](./LICENSE).
+Distributed under the [Apache License 2.0 ](./LICENSE).
 
 For questions or help, open a [GitHub Issue](https://github.com/layer5io/exoscale-academy/issues) or join the [Layer5 Slack Community](https://slack.layer5.io/).
 
