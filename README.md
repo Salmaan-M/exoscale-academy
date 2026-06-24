@@ -1,8 +1,24 @@
-# Exoscale Academy
+<p align="center">
+  <img src=".github/readme/images/layer5-light-no-trim.svg" width="40%" alt="Layer5 Logo">
+</p>
 
-[![Hugo](https://img.shields.io/badge/Hugo-Framework-FF4088?logo=hugo&logoColor=white)](https://gohugo.io/)
+<h1 align="center">Exoscale Academy</h1>
 
-Welcome to **Exoscale Academy**, the dedicated cloud education and training platform powered by Layer5. This repository provides a comprehensive framework for creating, organizing, and publishing structured learning paths, challenges and certifications tailored for Exoscale users and cloud practitioners.
+<p align="center">
+    Welcome to  <strong>Exoscale Academy</strong>, the dedicated cloud education and training platform powered by Layer5. This repository provides a comprehensive framework for creating, organizing, and publishing structured learning paths, challenges and certifications tailored for  Exoscale users and cloud practitioners.
+    
+</p>
+<p align="center">
+  <a href="https://layer5.io/learn/academy">
+    <img src="https://img.shields.io/badge/Layer5-Academy-00B39F?style=for-the-badge" alt="Layer5 Academy">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge" alt="Apache 2.0 License">
+  </a>
+  <a href="https://gohugo.io/">
+    <img src="https://img.shields.io/badge/Hugo-Framework-FF4088?logo=hugo&logoColor=white&style=for-the-badge" alt="Hugo">
+  </a>
+</p>
 
 ## Design Resources
 
